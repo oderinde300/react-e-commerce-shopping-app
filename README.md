@@ -1,1 +1,1 @@
-e-commerce-app-14e14.web.app
+https://e-commerce-app-14e14.web.app
