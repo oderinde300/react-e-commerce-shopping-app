@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-e-commerce-shopping-app/static/css/main.108a9cd3.css",
+    "main.js": "/react-e-commerce-shopping-app/static/js/main.62105dba.js",
+    "static/media/2.jpg": "/react-e-commerce-shopping-app/static/media/2.f0590f7c8d1204bf9304.jpg",
+    "static/media/3.jpg": "/react-e-commerce-shopping-app/static/media/3.32bc3de0e9c9dcf58f05.jpg",
+    "static/media/1.jpg": "/react-e-commerce-shopping-app/static/media/1.dc90c26f12c587352221.jpg",
+    "static/media/4.jpg": "/react-e-commerce-shopping-app/static/media/4.dfdf0edaf2fc4907b5c8.jpg",
+    "static/media/visa.png": "/react-e-commerce-shopping-app/static/media/visa.b95b27a0173c07427991.png",
+    "static/media/slick.svg": "/react-e-commerce-shopping-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-e-commerce-shopping-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-e-commerce-shopping-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-e-commerce-shopping-app/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/loading.svg": "/react-e-commerce-shopping-app/static/media/loading.922564ae45d9510ec394131a11e82ecd.svg",
+    "index.html": "/react-e-commerce-shopping-app/index.html",
+    "main.108a9cd3.css.map": "/react-e-commerce-shopping-app/static/css/main.108a9cd3.css.map",
+    "main.62105dba.js.map": "/react-e-commerce-shopping-app/static/js/main.62105dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.108a9cd3.css",
+    "static/js/main.62105dba.js"
+  ]
+}
