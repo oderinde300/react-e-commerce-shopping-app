@@ -21,7 +21,7 @@ const SearchForm = () => {
 
     const {
         products,
-    } = useFetch('https://landing-page-6409c-default-rtdb.firebaseio.com/products.json');
+    } = useFetch('https://e-commerce-app-14e14-default-rtdb.firebaseio.com/products.json');
 
     const searchTermHandler = () => {
         const enteredSearch = searchInputRef.current.value;

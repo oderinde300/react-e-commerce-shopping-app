@@ -11,7 +11,7 @@ const Products = (props) => {
         products,
         isLoading,
         httpError
-    } = useFetch('https://landing-page-6409c-default-rtdb.firebaseio.com/products.json');
+    } = useFetch('https://e-commerce-app-14e14-default-rtdb.firebaseio.com/products.json');
 
     let showProducts = [];
     if (props.category) {

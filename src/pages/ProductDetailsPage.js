@@ -15,7 +15,7 @@ const ProductDetailsPage = () => {
         setIsLoading(true);
         const fetchData = async () => {
             const response = await fetch(
-                'https://landing-page-6409c-default-rtdb.firebaseio.com/products.json'
+                'https://e-commerce-app-14e14-default-rtdb.firebaseio.com/products.json/'
             )
             if (!response.ok) {
                 throw new Error('Something went wrong')
